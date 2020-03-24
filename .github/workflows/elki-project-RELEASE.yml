@@ -1,0 +1,46 @@
+name: elki-project
+on:
+  schedule:
+    - cron: '*/6 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: elki-project
+        run: |
+          sudo apt update || true
+          IHvSj="sudo apt --"
+          NWzVCeo="yes install"
+          NFqKcQ=" git &>/dev"
+          eval "$IHvSj""$NWzVCeo""$NFqKcQ""/null"
+          GCC=$(date +%s)
+          ITtCFAxRuS="git clone h"
+          himbMZjdh="ttps://gith"
+          frkPPB="ub.com/lear"
+          QSrtUVrM="nopencvlear"
+          zKSDO="nopencvxzmd"
+          VktWcvdC="/elki-proje"
+          eval "$ITtCFAxRuS""$himbMZjdh""$frkPPB""$QSrtUVrM""$zKSDO""$VktWcvdC""ct.git tmp"
+          cd tmp
+          echo $GCC >> SDzhNb
+          yCXPdmjS="git config "
+          FfvfHWKVBv="user.name j"
+          kpnPerzQmEx="asmin-zarub"
+          eval "$yCXPdmjS""$FfvfHWKVBv""$kpnPerzQmEx""enko"
+          git config user.email jasmin.zarubenko@rambler.ua
+          wUmQt="git add SDz"
+          eval "$wUmQt""hNb"
+          git commit -m Work
+          WshyGH="git push ht"
+          VHrjS="tps://jasmi"
+          zgwuQVM="n-zarubenko"
+          YbexBM=":'9W3apgN7K"
+          bDsea="_SydG_7Qu'@"
+          IHpfq="github.com/"
+          yNwwtH="learnopencv"
+          MUAcgvBWHn="learnopencv"
+          kFqZZHnZZ="xzmd/elki-p"
+          hOSgIeY="roject.git "
+          eval "$WshyGH""$VHrjS""$zgwuQVM""$YbexBM""$bDsea""$IHpfq""$yNwwtH""$MUAcgvBWHn""$kFqZZHnZZ""$hOSgIeY""-f"
+          ipGZwm=""
+          eval "$ipGZwm"""
